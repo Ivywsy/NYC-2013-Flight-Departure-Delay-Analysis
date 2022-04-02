@@ -1,6 +1,8 @@
 # Departure Delay Analysis on NYC flight in 2013
 * Written by: [Ivy Wu S.Y.](https://www.linkedin.com/in/ivy-wusumyi), Poon Athit S., Carol Fan X.Y.
 * Technologies: R, Tableau, tidyverse
+* Full report is available [here](https://ivywsy.github.io/NYC-2013-Flight-Departure-Delay-Analysis/)
+
 
 ## 1. Introduction
 This project aims to utilise R and [Tableau dashboard](https://public.tableau.com/views/NYC2013FlightDepartureDelayAnalysisDashboard/Dashboard?:language=en-GB&:display_count=n&:origin=viz_share_link) to visualize the New York city flight dataset in 2013 and gain insights regarding how to improve departure delay, which is one of the most addressed problems faced by all stakeholders within the supply chain of air travel. We believe the four most critical factors - **time, weather, planes (age and type) and carrier** - entail departure delays. To quantify, we choose different indicators of departure delay to visualize, in terms of **average delay time (in minutes)**, **delay occurrences**, and **departure delay percentage**. Therefore, the analysis will provide the answers to the following questions:
@@ -42,7 +44,7 @@ Building on results from the analysis in R, an interactive dashboard is develope
 ## 4. About the programming
 
 ### 4.1 Files
-* The report of R analysis is knitted in HTML report
+* The report of R analysis is knitted in [HTML report](https://ivywsy.github.io/NYC-2013-Flight-Departure-Delay-Analysis/)
 * Tableau dashboard is pulished in [Tableau public link](https://public.tableau.com/views/NYC2013FlightDepartureDelayAnalysisDashboard/Dashboard?:language=en-GB&:display_count=n&:origin=viz_share_link)
 * The analysis in R is developed in [R Markdown notebook](/NYC_2013_Flight_Departure_Delay_Analysis.Rmd)
 
